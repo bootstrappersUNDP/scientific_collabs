@@ -11,6 +11,7 @@ This depository is used to build the code and download data on publications, whi
 
 
 | Name                | Count          |
+| :-----------------: | :------------: |
 | Publications        | > 244 million  |
 | Authors             | > 200 million  |
 | Institutions        | > 25 thousand  |
