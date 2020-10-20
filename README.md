@@ -31,6 +31,8 @@ MAG data can be accessed in three different ways: by using the MA search engine,
 In the AK API, there are 18 entity attributes that can be used to build query expressions as well as to specify the response of a query. Eight attributes are linked to the entity paper, four to the entity author, and two to each of the entities field of study, journal, and venue: paper—title, ID, year of publication, date of publication, citation count, estimated citation count, reference ID, words from title or abstract; author—name, ID, affiliation, affiliation ID; field of study/journal/venue—name, ID. In addition, there are 12 extended metadata attributes, which—in contrast to the 18 entity attributes—can only be used for specifying the query response. The 12
 extended metadata attributes are available for the entities paper (ten attributes) and venue (two attributes): paper—volume, issue, first page, last page, DOI, display name of the paper, description (e.g. abstract), list of web sources of the paper, source format (e.g. HTML, PDF, PPT), source URL; venue—display name, short name.
 
+As required by the liscense, we acknowledge [Microsoft Academic]( https://aka.ms/msracad). Find out more about the data schema of the Microsoft Academic Graph at: https://docs.microsoft.com/en-us/academic-services/graph/reference-data-schema
+
 ### 2.2. Exploring the data
 
 The downloaded data can be found in the repo scientific_collabs/data. Here, we will explore the data. 
