@@ -7,8 +7,8 @@ This depository is used to build the code and download data on publications, whi
 
 ## 2. Microsoft Academic and Data
 
-We decided to use Microsof Academic for the following reasons: 
--  Research by Harzing (2016) found that Microsoft Academic significantly outperformed the Web of Science and Scopus in terms of both publication and citation coverage,
+In our proposal, we planned to download the data for this project through Scopus, but we eventually decided to use Microsof Academic for the following reasons: 
+-  Research by [Harzing (2016)](https://www.readcube.com/articles/10.1007%2Fs11192-016-2026-y?author_access_token=VGOe3zUBun4lr3rK7X7Elve4RwlQNchNByi7wbcMAY7hqJRkzHmW-la5Hb7lAW5UO5wuC7aGQklUbjlsjbym7l_d48FItMITdfFmy1EjmH4HGSWbqgsVcyREQzkx3FOZibMQo3KOYmPMaPile46eKQ==) found that Microsoft Academic significantly outperformed the Web of Science and Scopus in terms of both publication and citation coverage,
 -  Microsoft Academic can be used free of charge, while the other services cannot. 
 -  Microsoft Academic does not limit the data that can be downloaded through its API, while the other services do.
 
