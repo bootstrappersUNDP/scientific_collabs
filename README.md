@@ -14,7 +14,7 @@ In our proposal, we planned to download the data for this project through Scopus
 
 ### 2.1. Micorsoft Academic API
 
-The AK API enables users to retrieve information from Microsoft Academic Graph (MAG). MAG is a database that models the real-life academic communication activities as a heterogeneous graph consisting of six types of entities. These entities are paper, field of study, author, institution (affiliation of author), venue (journal or conference series), and event (conference instances). Each of these entities is specified by entity attributes. 
+The API enables users to retrieve information from Microsoft Academic Graph (MAG). The provided data includes six types of entities. These entities are paper, field of study, author, institution (affiliation of author), venue (journal or conference series), and event (conference instances). 
 
 
 | Name                | Count          |
