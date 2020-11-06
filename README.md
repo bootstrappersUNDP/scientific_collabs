@@ -38,3 +38,7 @@ As required by the liscense, we acknowledge [Microsoft Academic]( https://aka.ms
 The majority of papers is published by the researchers from the University of Belgrade, as presented in the figure below.  
 
 ![Papers](data/img_papers.png)
+
+![Belgrade University](data/img_BG.png)
+
+![NS University](data/img_NS.png)
