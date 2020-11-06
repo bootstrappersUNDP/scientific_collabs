@@ -37,3 +37,4 @@ As required by the liscense, we acknowledge [Microsoft Academic]( https://aka.ms
 
 The downloaded data can be found in the repo scientific_collabs/data. Here, we will explore the data. 
 
+![Map](data/SRB_papers.png)
