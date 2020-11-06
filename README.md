@@ -35,6 +35,6 @@ As required by the liscense, we acknowledge [Microsoft Academic]( https://aka.ms
 
 ### 2.2. Exploring the data
 
-The downloaded data can be found in the repo scientific_collabs/data. Here, we will explore the data. 
+The majority of papers is published by the researchers from the University of Belgrade, as presented in the figure below.  
 
 ![Papers](data/img_papers.png)
