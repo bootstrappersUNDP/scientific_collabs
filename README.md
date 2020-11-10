@@ -39,6 +39,10 @@ The majority of papers is published by the researchers from the University of Be
 
 ![Papers](data/img_papers.png)
 
+Medicine (clinical medicine and biomedical research) and chemistry are the largest and fastest-growing scientific fields in Serbia. The numbers of published papers in Engineering (excluding Computer Science) and Mathematics have been stagnating or declining.
+
 ![Belgrade University](data/img_BG.png)
+
+Large chunk of papers coming out of University of Novi Sad are in computer science. 
 
 ![NS University](data/img_NS.png)
